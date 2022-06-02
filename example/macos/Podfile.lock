@@ -1,0 +1,22 @@
+PODS:
+  - flutter_webrtc_exmpl (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - flutter_webrtc_exmpl (from `Flutter/ephemeral/.symlinks/plugins/flutter_webrtc_exmpl/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+EXTERNAL SOURCES:
+  flutter_webrtc_exmpl:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_webrtc_exmpl/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  flutter_webrtc_exmpl: 4ce5e2887540d22ed848765ad03e94f8f22317bb
+  FlutterMacOS: 57701585bf7de1b3fc2bb61f6378d73bbdea8424
+
+PODFILE CHECKSUM: 505596d150d38022472859d890f709281982e016
+
+COCOAPODS: 1.11.3
